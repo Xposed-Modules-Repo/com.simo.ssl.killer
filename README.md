@@ -5,9 +5,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.simo.ssl.killer)
-![GitHub Issues](https://img.shields.io/github/issues/Xposed-Modules-Repo/com.simo.ssl.killer)
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/sslkiller)
 
 SSL KiLLER: An advanced XPosed module to bypass multiple ssl pinning implementations.
