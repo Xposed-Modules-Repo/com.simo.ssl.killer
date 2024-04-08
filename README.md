@@ -1,5 +1,4 @@
 <div align="center">
-
 # SSL KiLLER
 
 ![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)
