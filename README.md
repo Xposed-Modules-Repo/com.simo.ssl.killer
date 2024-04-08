@@ -17,7 +17,7 @@ SSL KiLLER: An advanced XPosed module to bypass multiple ssl pinning implementat
 
 ## ℹ️ First release note
 
-- After u add the target app to the list restart the module. (just remove it from recents apps then open it again,
+- After u add the target app to the list restart the module. (just remove it from recent apps then open it again,
 Its an issue with loading xsharedpreferences in the initiation class i will try to fix it later.)
 
 ## 📋 Requirements
