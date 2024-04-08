@@ -1,24 +1,23 @@
 <div align="center">
 
   ## SSL KiLLER
-
+An advanced XPosed module to bypass multiple ssl pinning implementations.
 
 ![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.simo.ssl.killer)
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/sslkiller)
 
-SSL KiLLER: An advanced XPosed module to bypass multiple ssl pinning implementations.
 </div>
 
 ## 🔥 Features
 
 - Bypass multiple SSL pinning libraries on Android using XPosed framework api.
+- included the most hooks available.
 
 ## ℹ️ First release note
 
-- After u add the target app to the list restart the module. (just remove it from recent apps then open it again,
-Its an issue with loading xsharedpreferences in the initiation class i will try to fix it later.)
+- After u add the target app to the list restart the module. (just remove it from recent apps then open it again so the hook will take effect, there is an issue while loading new saved configs (using xsharedpreferences) in the initiation class i will try to fix it later.)
 
 ## 📋 Requirements
 
