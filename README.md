@@ -17,7 +17,15 @@ An advanced XPosed module to bypass multiple ssl pinning implementations.
 
 ## ℹ️ First release note
 
-- After u add the target app to the list restart the module. (just remove it from recent apps then open it again so the hook will take effect, there is an issue while loading new saved configs (using xsharedpreferences) in the initiation class i will try to fix it later.)
+- There is an issue in the module while loading new configs.
+You have to restart it (SSL Killer) each time u added a new target app to the list so the hook will take effect.
+
+1- add a target app.
+2- restart the module (remove SSL Killer from recent apps then open again).
+3- then click on start button.
+
+That will fix the issue as temporary solution.
+I will try to fix that in next versions ..
 
 ## 📋 Requirements
 
