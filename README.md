@@ -12,25 +12,12 @@ An advanced XPosed module to bypass multiple ssl pinning implementations.
 
 ## 🔥 Features
 
-- Bypass multiple SSL pinning libraries on Android using XPosed framework api.
-- included the most hooks available.
-
-## ℹ️ First release note
-
-- There is an issue in the module while loading new configs. You have to restart it (SSL Killer) each time u added a new target app to the list so the hook will take effect.
-
-- 1- add a target app.
-- 2- restart the module (remove SSL Killer from recent apps then open again).
-- 3- then click on start button.
-
-- That will fix the issue as temporary solution.
-I will try to fix that in next versions ..
+- Bypass multiple SSL pinning methods using XPosed framework API.
 
 ## 📋 Requirements
 
-- XPosed Framework running on device (LSposed).
-- Root access.
-- For non-root users u can use VphoneGaga/VMos virtual machines with LSposed support.
+- XPosed Framework running on your device (LSposed).
+- Root access (optional to auto-run apps).
 
 ## 📱 Screenshots
 <p float="left">
