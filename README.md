@@ -21,8 +21,8 @@ An advanced XPosed module to bypass multiple ssl pinning implementations.
 
 ## 📱 Screenshots
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/2.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/1.png" width="45%" /> 
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/2.png" width="45%" /> 
 </p>
 
 ## 💬 Support
