@@ -14,7 +14,7 @@
 
 SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries and custom app checks — helping you validate and audit app network security security testing for Android apps.
 
-## features:
+## Features:
 
 - Targets multiple common pinning and certificate verification implementations.
 
@@ -51,7 +51,7 @@ Report issues on GitHub: https://github.com/Xposed-Modules-Repo/com.simo.ssl.kil
 
 ---
 
-## Changelog:
+## Latest version change logs:
 
 **Update 1.2beta:**
 
