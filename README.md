@@ -52,8 +52,6 @@ https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/issues
 
 ---
 
-## Latest version change logs:
-
 **Update v1.2beta:**
 
 - Fixed restart module to apply hooks.  
