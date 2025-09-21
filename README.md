@@ -26,7 +26,7 @@ SSL KiLLER is an XPosed/LSPosed module designed for security testers and researc
 
 ## Screenshots:
 
-<p float="center">  
+<p align="center">  
   <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/1.png" width="45%" />  
   <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.simo.ssl.killer/main/2.png" width="45%" />   
 </p>  
