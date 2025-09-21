@@ -12,7 +12,7 @@
 
 **An advanced XPosed module to bypass multiple ssl pinning implementations.**
 
-SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries and custom app checks — helping you validate and audit app network security security testing for Android apps.
+SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries and custom app checks. 
 
 ## Features:
 
