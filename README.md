@@ -1,7 +1,7 @@
 <div align="center">  
-  
   ## SSLKiller 
-  
+</div>
+<div >
 ![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)  
 ![GitHub Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.simo.ssl.killer)  
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases)  
