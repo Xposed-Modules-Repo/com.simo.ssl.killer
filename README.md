@@ -22,7 +22,6 @@ SSL KiLLER is an XPosed/LSPosed module designed for security testers and researc
 
 - LSPosed / XPosed framework installed on the device.  
 - Android device with root (recommended to auto force stop and launch).  
-- Target app must be debuggable / allow module hooking depending on the target (behavior may vary).
 
 ## Screenshots:
 
