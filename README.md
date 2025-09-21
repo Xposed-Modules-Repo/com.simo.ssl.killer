@@ -8,7 +8,7 @@
   
 </div>  
   
-## What is SSL KiLLER?  
+## What is SSL Killer?  
 
 **An advanced XPosed module to bypass multiple ssl pinning implementations.**
 
