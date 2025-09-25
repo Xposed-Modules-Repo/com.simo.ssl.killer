@@ -14,10 +14,6 @@
 
 SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
 
-## Features:
-
-- Targets multiple common pinning and certificate verification implementations.
-
 ## Requirements:
 
 - LSPosed / XPosed framework installed on the device.  
