@@ -12,7 +12,7 @@
 
 **Modern SSL certificate bypass using xposed framework**
 
-SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
+SSL Killer is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
 
 ## Requirements:
 
@@ -29,7 +29,7 @@ SSL KiLLER is an XPosed/LSPosed module designed for security testers and researc
 ## Installation:
 
 1. Install LSPosed framework on your device.
-2. Install the SSL KiLLER lastest apk.  
+2. Install the SSL Killer lastest apk.  
 3. Enable the module for the target apps in LSPosed.
 4. Use the module UI to select apps then launch.
 
