@@ -12,7 +12,7 @@
 
 **Modern SSL certificate bypass using xposed framework**
 
-SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries and custom app checks. 
+SSL KiLLER is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
 
 ## Features:
 
