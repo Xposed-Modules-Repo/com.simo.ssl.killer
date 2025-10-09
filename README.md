@@ -12,7 +12,7 @@
 
 **Modern SSL certificate bypass using xposed framework**
 
-SSL Killer is an XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
+An XPosed/LSPosed module designed for security testers and researchers. It implements a collection of hooks that target common SSL/TLS pinning implementations across popular libraries. 
 
 ## Requirements:
 
