@@ -47,6 +47,13 @@ https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/issues
 - Bug reports are welcome. 
 
 ---
+**Update v2.0beta:**
+
+- This version is Beta
+- Added and updated support for both Java and native hooks
+- Expanded native hook compatibility to include multiple libraries hooks (OpenSSL, BoringSSL, etc.)
+- Enhanced the user interface for improved usability
+- Thanks to @NachoNekos for Chinese translation
 
 **Update v1.2beta:**
 
