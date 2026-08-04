@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)  
-[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases)  
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/sslkiller)  
+![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.simo.ssl.killer/total)  [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.simo.ssl.killer)](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer/releases) [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/sslkiller)  
   
 </div>  
   
